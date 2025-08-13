@@ -13,3 +13,5 @@ Talvez seja útil:
 https://brasil.io/dataset/documentos-brasil/documents/
 
 https://www.bcb.gov.br/acessoinformacao/dadosabertos
+
+https://www.contabilizei.com.br/contabilidade-online/porte-de-empresa/
