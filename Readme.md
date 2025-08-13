@@ -9,4 +9,7 @@ https://basedosdados.org/dataset/33b49786-fb5f-496f-bb7c-9811c985af8e?table=b71e
 
 
 Talvez seja útil:
+
 https://brasil.io/dataset/documentos-brasil/documents/
+
+https://www.bcb.gov.br/acessoinformacao/dadosabertos
