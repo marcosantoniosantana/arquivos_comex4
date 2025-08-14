@@ -17,3 +17,6 @@ https://www.bcb.gov.br/acessoinformacao/dadosabertos
 https://www.contabilizei.com.br/contabilidade-online/porte-de-empresa/
 
 https://www.ibge.gov.br/
+
+SIMPLES NACIONAL (CONSULTAR PORTE DA EMPRESA)
+https://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx
