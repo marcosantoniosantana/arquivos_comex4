@@ -1,0 +1,8 @@
+O porte de uma empresa segue um padão estabelecido pelo SEBRAE E IBGE
+
+Critérios de Classificação:
+Microempresa (ME): Até 19 empregados e/ou faturamento anual de até R$ 360 mil. 
+Empresa de Pequeno Porte (EPP): De 20 a 99 empregados e/ou faturamento anual entre R$ 360 mil e R$ 4,8 milhões. 
+Empresa de Médio Porte: De 100 a 499 empregados e/ou faturamento anual superior a R$ 4,8 milhões. 
+Grande Empresa: Mais de 500 empregados e/ou faturamento anual acima de R$ 300 milhões, segundo algumas fontes. 
+
